@@ -1,5 +1,5 @@
 # API de prueba
-## Autor: Marce
+## Autor: Marce Serrano
 
 ### Como Instalar
 ``` npm install ```
